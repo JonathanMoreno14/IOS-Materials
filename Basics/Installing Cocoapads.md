@@ -22,7 +22,7 @@ Pod installation complete! There are 0 dependencies from the Podfile and 0 total
 
 > [!] Automatically assigning platform `ios` with version `11.4` on target `appname` because no platform was specified. Please specify a platform for this target in your Podfile. See `https://guides.cocoapods.org/syntax/podfile.html#platform`.
 
-- The Cocoa Pods have been installed on your project
+- The Podfile has been installed on your project
 
 - Next you open **xcworkspace** file  
 
